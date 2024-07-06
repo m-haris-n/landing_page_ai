@@ -7,7 +7,7 @@ export default function Preview() {
    return (
       <Grid
          gutter={"xl"}
-         h={"99vh"}
+         h={"98vh"}
          w={"99%"}
       >
          <Grid.Col span={6}>

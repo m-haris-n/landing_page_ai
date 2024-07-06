@@ -1,7 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+
 import "./index.css";
 import "@mantine/core/styles.css";
+import "@mantine/tiptap/styles.css";
+
 import { MantineProvider } from "@mantine/core";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import Home from "./Pages/Home/Home.jsx";
